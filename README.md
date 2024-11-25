@@ -1,5 +1,6 @@
 Objective:
 -> The objective of this project is to develop a software system that can efficiently manage employee payroll information for different types of employees, such as full-time or  part-time employees. 
+
 -> This project demonstrates the use of OOP principles like encapsulation, inheritance, polymorphism, and abstraction to create a well-structured and maintainable codebase. 
 
 Key Features:
